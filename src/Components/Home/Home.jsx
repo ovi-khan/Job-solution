@@ -1,9 +1,12 @@
 import React from 'react';
+import HeaderSaction from '../HeaderSaction/HeaderSaction';
+import JobCatagoryList from '../JobCategoryLists/JobCatagoryLists';
 
 const Home = () => {
     return (
         <div>
-            <h1>Home</h1>  
+            <HeaderSaction></HeaderSaction> 
+            <JobCatagoryList></JobCatagoryList> 
         </div>
     );
 };
