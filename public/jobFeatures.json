@@ -1,0 +1,131 @@
+[
+    {
+        "id": "1",
+        "categoryLogo": "https://example.com/logo1.png",
+        "jobTitle": "Software Engineer",
+        "companyName": "SoftWire Inc.",
+        "remoteOrOnsite": "Remote",
+        "location": "Any Location",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": 80000,
+        "jobDescription": "SoftWire Inc. is seeking an experienced Software Engineer to join our dynamic team. The ideal candidate will have strong programming skills and expertise in Java and Python.",
+        "jobResponsibility": "Responsibilities will include designing, coding, testing, debugging, and documenting software applications, collaborating with cross-functional teams, troubleshooting and resolving software defects, and contributing to software development best practices.",
+        "EducationRequirements": "Bachelor's degree in Computer Science or related field",
+        "Experiences": "Minimum 3 years of professional software development experience",
+        "contractInformation": {
+            "phone": "+1 123-456-7890",
+            "email": "careers@softwire.com"
+        }
+    },
+    {
+        "id": "2",
+        "categoryLogo": "https://example.com/logo2.png",
+        "jobTitle": "Frontend Developer",
+        "companyName": "SoftWire Inc.",
+        "remoteOrOnsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": 90000,
+        "jobDescription": "SoftWire Inc. is seeking a talented Frontend Developer to create innovative user interfaces for our web applications. The ideal candidate will have strong skills in HTML, CSS, and JavaScript.",
+        "jobResponsibility": "Responsibilities will include designing and implementing responsive user interfaces, collaborating with UX/UI designers, optimizing web performance, troubleshooting and fixing frontend defects, and contributing to frontend development best practices.",
+        "EducationRequirements": "Bachelor's degree in Computer Science or related field",
+        "Experiences": "Minimum 2 years of professional frontend development experience",
+        "contractInformation": {
+            "phone": "+1 123-456-7890",
+            "email": "careers@softwire.com"
+        }
+    },
+    {
+        "id": "3",
+        "categoryLogo": "https://example.com/logo3.png",
+        "jobTitle": "Quality Assurance Analyst",
+        "companyName": "SoftWire Inc.",
+        "remoteOrOnsite": "Onsite",
+        "location": "New York, NY",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": 75000,
+        "jobDescription": "SoftWire Inc. is seeking a detail-oriented Quality Assurance Analyst to ensure the quality and reliability of our software products. The ideal candidate will have strong skills in manual and automated testing.",
+        "jobResponsibility": "Responsibilities will include creating and executing test plans, identifying and documenting defects, working closely with development and product teams, providing feedback on usability and functionality, and contributing to continuous improvement of the QA process.",
+        "EducationRequirements": "Bachelor's degree in Computer Science or related field",
+        "Experiences": "Minimum 3 years of professional QA testing experience",
+        "contractInformation": {
+            "phone": "+1 123-456-7890",
+            "email": "careers@softwire.com"
+        }
+    },
+    {
+        "id": "4",
+        "categoryLogo": "https://example.com/logo4.png",
+        "jobTitle": "Product Manager",
+        "companyName": "SoftWire Inc.",
+        "remoteOrOnsite": "Onsite",
+        "location": "Seattle, WA",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": 100000,
+        "jobDescription": "SoftWire Inc. is looking for a talented Product Manager to drive the vision, strategy, and execution of our software products. The ideal candidate will have a strong understanding of customer needs, market trends, and product development processes.",
+        "jobResponsibility": "Responsibilities will include defining product roadmap, conducting market research, gathering and prioritizing product requirements, working with cross-functional teams to develop and launch products, analyzing product performance data, and driving product adoption and customer satisfaction.",
+        "EducationRequirements": "Bachelor's degree in Business, Computer Science, or related field",
+        "Experiences": "Minimum 5 years of experience in product management, preferably in software or technology industry",
+        "contractInformation": {
+            "phone": "+1 123-456-7890",
+            "email": "careers@softwire.com"
+        }
+    },
+    {
+        "id": "5",
+        "categoryLogo": "https://example.com/logo5.png",
+        "jobTitle": "QA Engineer",
+        "companyName": "SoftWire Inc.",
+        "remoteOrOnsite": "Onsite",
+        "location": "Austin, TX",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": 75000,
+        "jobDescription": "SoftWire Inc. is seeking a detail-oriented and experienced QA Engineer to ensure the quality of our software products. The ideal candidate will have expertise in manual and automated testing, test planning, and defect tracking.",
+        "jobResponsibility": "Responsibilities will include designing and executing test plans, identifying and documenting defects, collaborating with development team to resolve issues, conducting regression testing, maintaining test documentation, and providing feedback on product quality.",
+        "EducationRequirements": "Bachelor's degree in Computer Science, Software Engineering, or related field",
+        "Experiences": "Minimum 3 years of professional QA/testing experience",
+        "contractInformation": {
+            "phone": "+1 123-456-7890",
+            "email": "careers@softwire.com"
+        }
+    },
+    [
+        {
+            "id": "6",
+            "categoryLogo": "https://example.com/logo6.png",
+            "jobTitle": "Software Developer",
+            "companyName": "SoftWire Inc.",
+            "remoteOrOnsite": "Remote",
+            "location": "Any Location",
+            "fullTimeOrPartTime": "Full-time",
+            "salary": 90000,
+            "jobDescription": "SoftWire Inc. is looking for a skilled Software Developer to join our talented team. The ideal candidate will have a strong background in software development, with expertise in Java, C++, or Python.",
+            "jobResponsibility": "Responsibilities will include developing high-quality software solutions, collaborating with cross-functional teams to design and implement software applications, debugging and resolving software defects, and providing technical support to customers.",
+            "EducationRequirements": "Bachelor's degree in Computer Science, Software Engineering, or related field",
+            "Experiences": "Minimum 3 years of professional software development experience",
+            "contractInformation": {
+                "phone": "+1 123-456-7890",
+                "email": "careers@softwire.com"
+            }
+        },
+        {
+            "id": "7",
+            "categoryLogo": "https://example.com/logo7.png",
+            "jobTitle": "UX Designer",
+            "companyName": "SoftWire Inc.",
+            "remoteOrOnsite": "Onsite",
+            "location": "San Francisco, CA",
+            "fullTimeOrPartTime": "Full-time",
+            "salary": 110000,
+            "jobDescription": "SoftWire Inc. is seeking a creative and experienced UX Designer to shape the user experience of our software products. The ideal candidate will have a strong understanding of user-centered design principles and expertise in UX design tools.",
+            "jobResponsibility": "Responsibilities will include conducting user research, creating wireframes and prototypes, designing and testing user interfaces, collaborating with development and product teams, and advocating for best practices in UX design.",
+            "EducationRequirements": "Bachelor's degree in Design, Human-Computer Interaction, or related field",
+            "Experiences": "Minimum 5 years of professional UX design experience, preferably in software or technology industry",
+            "contractInformation": {
+                "phone": "+1 123-456-7890",
+                "email": "careers@softwire.com"
+            }
+        }
+    ]
+    
+]
