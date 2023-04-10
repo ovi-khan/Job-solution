@@ -9,6 +9,7 @@ const Header = () => {
             </Link>
             <div className='text-2xl'>
                 <NavLink className='me-5' to='/'>Home</NavLink>
+                <NavLink className='me-5' to='/jobDetails'>Job Details</NavLink>
                 <NavLink className='me-5' to='/statistics'>Statistics</NavLink>
                 <NavLink className='me-5' to='/appliedJobs'>Applied Jobs</NavLink>
                 <NavLink className='me-5' to='/blog'>Blog</NavLink>
