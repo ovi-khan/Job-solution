@@ -89,7 +89,6 @@
             "email": "careers@softwire.com"
         }
     },
-    [
         {
             "id": "6",
             "categoryLogo": "https://example.com/logo6.png",
@@ -128,4 +127,3 @@
         }
     ]
     
-]

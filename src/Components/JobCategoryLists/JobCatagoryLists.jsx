@@ -5,7 +5,7 @@ import JobCategory from "../JobCategory/JobCategory";
 const JobCatagoryLists = () => {
   const [datas, setDatas] = useState([]);
   useEffect(() => {
-    fetch("jobCategoryList.json")
+    fetch("/jobCategoryList.json")
       .then((res) => res.json())
       .then((jData) => setDatas(jData));
   }, []);

@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, useLoaderData } from "react-router-dom";
 
-const FaturedJobCard = ({ singleData }) => {
+const FaturedJobCard = ({ singleData, jobDetailsBtnHandler }) => {
   // console.log(singleData);
   const {
     id,
@@ -29,7 +29,7 @@ const FaturedJobCard = ({ singleData }) => {
       <p>
         {location}, {salary}
       </p>
-      <Link to={`/jobDetails/${id}`}>
+      <Link to={`jobDetails/${id}`}>
         <button className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 px-5 py-3 rounded-lg text-white font-bold mt-3">
           View Details
         </button>

@@ -4,7 +4,10 @@ import FaturedJobCard from '../FaturedJobCard/FaturedJobCard';
 
 const FaturedJobs = () => {
     const featuredJobData = useLoaderData()
-    // console.log(featuredJobData)
+    // const jobDetailsBtnHandler = (id) => {
+    //     console.log(id)
+    // }
+     // console.log(featuredJobData)
     return (
         <div>
             <div className='text-center mt-10'>
@@ -16,6 +19,7 @@ const FaturedJobs = () => {
                 featuredJobData.map(singleData => <FaturedJobCard 
                     key={singleData.id}
                     singleData = {singleData}
+                    // jobDetailsBtnHandler={jobDetailsBtnHandler}
                 ></FaturedJobCard>)
             }
             </div>
