@@ -2,7 +2,7 @@ import React from "react";
 import { Link, useLoaderData } from "react-router-dom";
 
 const FaturedJobCard = ({ singleData }) => {
-  console.log(singleData);
+  // console.log(singleData);
   const {
     id,
     categoryLogo,

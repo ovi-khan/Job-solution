@@ -6,18 +6,24 @@ import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import Header from './Components/Header/Header'
 import Home from './Components/Home/Home'
 import JobDetails from './Components/JobDetails/JobDetails'
+import ErrorPage from './Components/ErrorPage/ErrorPage'
 
 
 const router = createBrowserRouter([
   {
     path: '/',
     element: <App></App>,
+    errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
         path: '/',
         element: <Home></Home>,
         loader: () => fetch('jobFeatures.json')
       },
+      // {
+      //   path: 'jobDetails',
+      //   element: <JobDetails></JobDetails>
+      // },fetch(`jobFeatures.json/${params.jobDetailsId}`)
       {
         path: 'jobDetails/:jobDetailsId',
         element: <JobDetails></JobDetails>,

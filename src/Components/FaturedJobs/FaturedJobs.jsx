@@ -4,7 +4,7 @@ import FaturedJobCard from '../FaturedJobCard/FaturedJobCard';
 
 const FaturedJobs = () => {
     const featuredJobData = useLoaderData()
-    console.log(featuredJobData)
+    // console.log(featuredJobData)
     return (
         <div>
             <div className='text-center mt-10'>
@@ -19,6 +19,7 @@ const FaturedJobs = () => {
                 ></FaturedJobCard>)
             }
             </div>
+            <button className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 px-5 py-3 rounded-lg text-white font-bold mt-3">See More</button>
         </div>
     );
 };
