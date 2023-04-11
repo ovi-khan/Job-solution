@@ -1,7 +1,7 @@
 import React from "react";
-import { Link, useLoaderData } from "react-router-dom";
+import { Link } from "react-router-dom";
 
-const FaturedJobCard = ({ singleData, jobDetailsBtnHandler }) => {
+const FaturedJobCard = ({ singleData }) => {
   // console.log(singleData);
   const {
     id,

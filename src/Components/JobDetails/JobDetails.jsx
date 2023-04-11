@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { useLoaderData, useParams } from "react-router-dom";
+import { Link, useLoaderData, useParams } from "react-router-dom";
+import { addToDb } from "../Utilities/fakeDb";
 
 const JobDetails = () => {
   const details = useLoaderData();
@@ -7,14 +8,18 @@ const JobDetails = () => {
   const [job, setJob] = useState({});
 
   useEffect(() => {
-    // if (jobData) {
-      const jobData = details.find((jd) => jd.id === id);
+    const jobData = details.find((jd) => jd.id === id);
+    if (jobData) {
       setJob(jobData);
-    // }
-  }, []);
-  console.log(job);
+    }
+  }, [job, id]);
+  // console.log(job);
   const {jobDescription, jobResponsibility, EducationRequirements, Experiences, companyName, categoryLogo, fullTimeOrPartTime, location, salary, remoteOrOnsite, phone, email} = job
-
+  const handleAddToCart = id => {
+    addToDb(id)
+    console.log(id)
+  }
+ 
   return (
     <div className="mx-10 mt-28 grid grid-cols-2 gap-10">
       <div className="">
@@ -35,7 +40,10 @@ const JobDetails = () => {
         <p className="mt-3"><span className="font-bold">Phone:</span> {phone}</p>
         <p className="mt-3"><span className="font-bold">Email:</span> {email}</p>
         <p className="mt-3"><span className="font-bold">Address:</span> {location}</p>
-      <button className="mt-10 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 px-5 py-3 rounded-lg text-white font-bold">Apply Now</button>
+        <Link to={`/appliedJobs/${id}`}>
+        {/* <Link to='/appliedJobs'> */}
+        <button onClick={ () => handleAddToCart(id)} className="mt-10 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 px-5 py-3 rounded-lg text-white font-bold">Apply Now</button>
+        </Link>
       </div>
     </div>
   );

@@ -8,6 +8,9 @@ import Home from './Components/Home/Home'
 import JobDetails from './Components/JobDetails/JobDetails'
 import ErrorPage from './Components/ErrorPage/ErrorPage'
 import Statistics from './Components/Statistics/Statistics'
+import AppliedJobs from './Components/AppliedJobs/AppliedJobs'
+import { productsAndCartData } from './Components/Loader/GetCart&loadData'
+import ApplyJob from './Components/ApplyJobs/ApplyJob'
 
 
 const router = createBrowserRouter([
@@ -29,7 +32,15 @@ const router = createBrowserRouter([
         path: '/jobDetails/:id',
         element: <JobDetails></JobDetails>,
         loader: () => fetch('/jobFeatures.json')
-        // loader: ({params}) => fetch(`/jobFeatures.json${params.jobDetailsId}`)
+      },
+      {
+        path: 'appliedJobs/:id',
+        element: <AppliedJobs></AppliedJobs>,
+        loader: productsAndCartData
+      },
+      {
+        path: 'appliedJobs',
+        element: <ApplyJob></ApplyJob>
       },
       {
         path: 'statistics',
