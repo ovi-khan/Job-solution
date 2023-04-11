@@ -29,7 +29,7 @@ const FaturedJobCard = ({ singleData, jobDetailsBtnHandler }) => {
       <p>
         {location}, {salary}
       </p>
-      <Link to={`jobDetails/${id}`}>
+      <Link to={`/jobDetails/${id}`}>
         <button className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 px-5 py-3 rounded-lg text-white font-bold mt-3">
           View Details
         </button>

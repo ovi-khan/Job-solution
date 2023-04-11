@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "categoryLogo": "https://example.com/logo1.png",
+        "categoryLogo": "https://th.bing.com/th/id/OIP.xbCoA5UeJFU-KvWSO3vmSAHaEK?pid=ImgDet&rs=1",
         "jobTitle": "Software Engineer",
         "companyName": "SoftWire Inc.",
         "remoteOrOnsite": "Remote",
@@ -12,14 +12,12 @@
         "jobResponsibility": "Responsibilities will include designing, coding, testing, debugging, and documenting software applications, collaborating with cross-functional teams, troubleshooting and resolving software defects, and contributing to software development best practices.",
         "EducationRequirements": "Bachelor's degree in Computer Science or related field",
         "Experiences": "Minimum 3 years of professional software development experience",
-        "contractInformation": {
-            "phone": "+1 123-456-7890",
-            "email": "careers@softwire.com"
-        }
+        "phone": "+1 123-456-7890",  
+        "email": "careers@softwire.com"
     },
     {
         "id": "2",
-        "categoryLogo": "https://example.com/logo2.png",
+        "categoryLogo": "https://th.bing.com/th/id/OIP.3Y6BR7ULzRKXfmxBVYRL4AHaDh?pid=ImgDet&rs=1",
         "jobTitle": "Frontend Developer",
         "companyName": "SoftWire Inc.",
         "remoteOrOnsite": "Onsite",
@@ -30,14 +28,12 @@
         "jobResponsibility": "Responsibilities will include designing and implementing responsive user interfaces, collaborating with UX/UI designers, optimizing web performance, troubleshooting and fixing frontend defects, and contributing to frontend development best practices.",
         "EducationRequirements": "Bachelor's degree in Computer Science or related field",
         "Experiences": "Minimum 2 years of professional frontend development experience",
-        "contractInformation": {
-            "phone": "+1 123-456-7890",
-            "email": "careers@softwire.com"
-        }
+        "phone": "+1 123-456-7890",
+        "email": "careers@softwire.com"
     },
     {
         "id": "3",
-        "categoryLogo": "https://example.com/logo3.png",
+        "categoryLogo": "https://th.bing.com/th/id/OIP.1qDnebPzPzIgRprIzV-ocwHaFV?pid=ImgDet&rs=1",
         "jobTitle": "Quality Assurance Analyst",
         "companyName": "SoftWire Inc.",
         "remoteOrOnsite": "Onsite",
@@ -48,14 +44,12 @@
         "jobResponsibility": "Responsibilities will include creating and executing test plans, identifying and documenting defects, working closely with development and product teams, providing feedback on usability and functionality, and contributing to continuous improvement of the QA process.",
         "EducationRequirements": "Bachelor's degree in Computer Science or related field",
         "Experiences": "Minimum 3 years of professional QA testing experience",
-        "contractInformation": {
-            "phone": "+1 123-456-7890",
-            "email": "careers@softwire.com"
-        }
+        "phone": "+1 123-456-7890",
+        "email": "careers@softwire.com"
     },
     {
         "id": "4",
-        "categoryLogo": "https://example.com/logo4.png",
+        "categoryLogo": "https://th.bing.com/th/id/OIP.o24J9AgqDAo0sPFUWycOZAHaE4?pid=ImgDet&rs=1",
         "jobTitle": "Product Manager",
         "companyName": "SoftWire Inc.",
         "remoteOrOnsite": "Onsite",
@@ -66,14 +60,12 @@
         "jobResponsibility": "Responsibilities will include defining product roadmap, conducting market research, gathering and prioritizing product requirements, working with cross-functional teams to develop and launch products, analyzing product performance data, and driving product adoption and customer satisfaction.",
         "EducationRequirements": "Bachelor's degree in Business, Computer Science, or related field",
         "Experiences": "Minimum 5 years of experience in product management, preferably in software or technology industry",
-        "contractInformation": {
-            "phone": "+1 123-456-7890",
-            "email": "careers@softwire.com"
-        }
+        "phone": "+1 123-456-7890",
+        "email": "careers@softwire.com"
     },
     {
         "id": "5",
-        "categoryLogo": "https://example.com/logo5.png",
+        "categoryLogo": "https://th.bing.com/th/id/R.75f682167128896823f04aa22203dfd8?rik=UE8IdLyMH3dsrQ&pid=ImgRaw&r=0",
         "jobTitle": "QA Engineer",
         "companyName": "SoftWire Inc.",
         "remoteOrOnsite": "Onsite",
@@ -84,14 +76,12 @@
         "jobResponsibility": "Responsibilities will include designing and executing test plans, identifying and documenting defects, collaborating with development team to resolve issues, conducting regression testing, maintaining test documentation, and providing feedback on product quality.",
         "EducationRequirements": "Bachelor's degree in Computer Science, Software Engineering, or related field",
         "Experiences": "Minimum 3 years of professional QA/testing experience",
-        "contractInformation": {
-            "phone": "+1 123-456-7890",
-            "email": "careers@softwire.com"
-        }
+        "phone": "+1 123-456-7890",
+        "email": "careers@softwire.com"
     },
         {
             "id": "6",
-            "categoryLogo": "https://example.com/logo6.png",
+            "categoryLogo": "https://th.bing.com/th/id/OIP.ztfEMuvGAn_Vgeeh4SFBygHaD_?pid=ImgDet&rs=1",
             "jobTitle": "Software Developer",
             "companyName": "SoftWire Inc.",
             "remoteOrOnsite": "Remote",
@@ -102,14 +92,12 @@
             "jobResponsibility": "Responsibilities will include developing high-quality software solutions, collaborating with cross-functional teams to design and implement software applications, debugging and resolving software defects, and providing technical support to customers.",
             "EducationRequirements": "Bachelor's degree in Computer Science, Software Engineering, or related field",
             "Experiences": "Minimum 3 years of professional software development experience",
-            "contractInformation": {
-                "phone": "+1 123-456-7890",
-                "email": "careers@softwire.com"
-            }
+            "phone": "+1 123-456-7890",
+            "email": "careers@softwire.com"
         },
         {
             "id": "7",
-            "categoryLogo": "https://example.com/logo7.png",
+            "categoryLogo": "https://th.bing.com/th/id/OIP.Q_-b-uJfx__6zYwZjs0CPgEsDh?pid=ImgDet&rs=1",
             "jobTitle": "UX Designer",
             "companyName": "SoftWire Inc.",
             "remoteOrOnsite": "Onsite",
@@ -120,10 +108,8 @@
             "jobResponsibility": "Responsibilities will include conducting user research, creating wireframes and prototypes, designing and testing user interfaces, collaborating with development and product teams, and advocating for best practices in UX design.",
             "EducationRequirements": "Bachelor's degree in Design, Human-Computer Interaction, or related field",
             "Experiences": "Minimum 5 years of professional UX design experience, preferably in software or technology industry",
-            "contractInformation": {
-                "phone": "+1 123-456-7890",
-                "email": "careers@softwire.com"
-            }
+            "phone": "+1 123-456-7890",
+            "email": "careers@softwire.com"
         }
     ]
     

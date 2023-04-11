@@ -12,8 +12,8 @@ const Header = () => {
             <div className='nav'>
                 <ActiveLink to='/'>Home</ActiveLink>
                 <ActiveLink to='/jobDetails'>Job Details</ActiveLink>
-                <ActiveLink to='/statistics'>Statistics</ActiveLink>
                 <ActiveLink to='/appliedJobs'>Applied Jobs</ActiveLink>
+                <ActiveLink to='/statistics'>Statistics</ActiveLink>
                 <ActiveLink to='/blog'>Blog</ActiveLink>
             </div>
             <div>
