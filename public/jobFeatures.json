@@ -1,9 +1,9 @@
 [
     {
         "id": "1",
-        "categoryLogo": "https://th.bing.com/th/id/OIP.xbCoA5UeJFU-KvWSO3vmSAHaEK?pid=ImgDet&rs=1",
+        "categoryLogo": "https://www.channelpronetwork.com/sites/default/files/company/logos/originalimagesgooglelogo.jpg",
         "jobTitle": "Software Engineer",
-        "companyName": "SoftWire Inc.",
+        "companyName": "Google.",
         "remoteOrOnsite": "Remote",
         "location": "Any Location",
         "fullTimeOrPartTime": "Full-time",
@@ -17,10 +17,10 @@
     },
     {
         "id": "2",
-        "categoryLogo": "https://th.bing.com/th/id/OIP.3Y6BR7ULzRKXfmxBVYRL4AHaDh?pid=ImgDet&rs=1",
+        "categoryLogo": "https://news-cdn.softpedia.com/images/news2/Microsoft-Redesigns-Its-Logo-for-the-First-Time-in-25-Years-Here-It-Is-3.png",
         "jobTitle": "Frontend Developer",
-        "companyName": "SoftWire Inc.",
-        "remoteOrOnsite": "Onsite",
+        "companyName": "Microsoft SoftWire Inc.",
+        "remoteOrOnsite": "Remote",
         "location": "San Francisco, CA",
         "fullTimeOrPartTime": "Full-time",
         "salary": 90000,
@@ -33,10 +33,10 @@
     },
     {
         "id": "3",
-        "categoryLogo": "https://th.bing.com/th/id/OIP.1qDnebPzPzIgRprIzV-ocwHaFV?pid=ImgDet&rs=1",
+        "categoryLogo": "https://1000logos.net/wp-content/uploads/2018/02/Color-Tesla-logo.jpg",
         "jobTitle": "Quality Assurance Analyst",
-        "companyName": "SoftWire Inc.",
-        "remoteOrOnsite": "Onsite",
+        "companyName": "Tesla Inc.",
+        "remoteOrOnsite": "Remote",
         "location": "New York, NY",
         "fullTimeOrPartTime": "Full-time",
         "salary": 75000,
@@ -49,10 +49,10 @@
     },
     {
         "id": "4",
-        "categoryLogo": "https://th.bing.com/th/id/OIP.o24J9AgqDAo0sPFUWycOZAHaE4?pid=ImgDet&rs=1",
+        "categoryLogo": "https://d24v5oonnj2ncn.cloudfront.net/wp-content/uploads/2018/10/16030301/Amazon-Logo-Black.jpg",
         "jobTitle": "Product Manager",
-        "companyName": "SoftWire Inc.",
-        "remoteOrOnsite": "Onsite",
+        "companyName": "Amazon.",
+        "remoteOrOnsite": "Remote",
         "location": "Seattle, WA",
         "fullTimeOrPartTime": "Full-time",
         "salary": 100000,
@@ -65,10 +65,10 @@
     },
     {
         "id": "5",
-        "categoryLogo": "https://th.bing.com/th/id/R.75f682167128896823f04aa22203dfd8?rik=UE8IdLyMH3dsrQ&pid=ImgRaw&r=0",
+        "categoryLogo": "https://logos.flamingtext.com/Word-Logos/being-design-china-name.png",
         "jobTitle": "QA Engineer",
-        "companyName": "SoftWire Inc.",
-        "remoteOrOnsite": "Onsite",
+        "companyName": "Being SoftWire Inc.",
+        "remoteOrOnsite": "Remote",
         "location": "Austin, TX",
         "fullTimeOrPartTime": "Full-time",
         "salary": 75000,
@@ -81,9 +81,9 @@
     },
         {
             "id": "6",
-            "categoryLogo": "https://th.bing.com/th/id/OIP.ztfEMuvGAn_Vgeeh4SFBygHaD_?pid=ImgDet&rs=1",
+            "categoryLogo": "https://mma.prnewswire.com/media/927546/Toptal_Logo.jpg?p=facebook",
             "jobTitle": "Software Developer",
-            "companyName": "SoftWire Inc.",
+            "companyName": "Toptal SoftWire Inc.",
             "remoteOrOnsite": "Remote",
             "location": "Any Location",
             "fullTimeOrPartTime": "Full-time",
@@ -94,22 +94,7 @@
             "Experiences": "Minimum 3 years of professional software development experience",
             "phone": "+1 123-456-7890",
             "email": "careers@softwire.com"
-        },
-        {
-            "id": "7",
-            "categoryLogo": "https://th.bing.com/th/id/OIP.Q_-b-uJfx__6zYwZjs0CPgEsDh?pid=ImgDet&rs=1",
-            "jobTitle": "UX Designer",
-            "companyName": "SoftWire Inc.",
-            "remoteOrOnsite": "Onsite",
-            "location": "San Francisco, CA",
-            "fullTimeOrPartTime": "Full-time",
-            "salary": 110000,
-            "jobDescription": "SoftWire Inc. is seeking a creative and experienced UX Designer to shape the user experience of our software products. The ideal candidate will have a strong understanding of user-centered design principles and expertise in UX design tools.",
-            "jobResponsibility": "Responsibilities will include conducting user research, creating wireframes and prototypes, designing and testing user interfaces, collaborating with development and product teams, and advocating for best practices in UX design.",
-            "EducationRequirements": "Bachelor's degree in Design, Human-Computer Interaction, or related field",
-            "Experiences": "Minimum 5 years of professional UX design experience, preferably in software or technology industry",
-            "phone": "+1 123-456-7890",
-            "email": "careers@softwire.com"
         }
+        
     ]
     
