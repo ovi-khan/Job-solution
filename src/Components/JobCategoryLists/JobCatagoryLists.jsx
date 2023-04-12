@@ -19,7 +19,7 @@ const JobCatagoryLists = () => {
           need. Its your future
         </p>
       </div>
-      <div className="flex gap-5 justify-around  mx-10 mt-10">
+      <div className="lg:flex gap-5 justify-around  mx-10 mt-10">
         {
             datas.map(data => <JobCategory
               key="data.id"
